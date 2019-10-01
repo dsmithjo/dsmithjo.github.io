@@ -1,6 +1,4 @@
-### Quantitative Researcher  
-
-#### [About](https://dsmithjo.github.io/about "About")
+### Quantitative Researcher  |  [About](https://dsmithjo.github.io/about "About") 
 
 ---
 
