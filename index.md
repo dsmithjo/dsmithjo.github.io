@@ -10,13 +10,13 @@ Research links:
  
 ---
 
-### [Publications](/publications "Link to publications")
+### [Publications](publications "Link to publications")
     
 ---
 
-### [Presentations](/presentations "Link to presentations")
+### [Presentations](presentations "Link to presentations")
 
 ---
 
-### [Ongoing Research](/ongoingandunpub "Link to ongoing research")
+### [Ongoing Research](ongoingandunpub "Link to ongoing research")
 ---
