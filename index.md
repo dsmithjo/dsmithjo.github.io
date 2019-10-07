@@ -2,8 +2,6 @@
 
 #### [About](https://dsmithjo.github.io/about)
 
-#### [About](https://dsmithjo.github.io/about.md)
-
 <br />
 
 Research links:
@@ -16,9 +14,9 @@ Research links:
     
 ---
 
-### [Presentations](presentations "Link to presentations")
+### [Presentations](https://dsmithjo.github.io/https://dsmithjo.github.io/presentations "Link to presentations")
 
 ---
 
-### [Ongoing Research](ongoingandunpub.md "Link to ongoing research")
+### [Ongoing Research](https://dsmithjo.github.io/ongoingandunpub "Link to ongoing research")
 ---
