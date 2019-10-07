@@ -1,8 +1,6 @@
 ### Quantitative Researcher
 
-#### [About](https://smithdj.github.io/about)
-
-Email: [smithdanieljo@gmail.com](mailto:smithdanieljo@gmail.com)
+#### [About](https://dsmithjo.github.io/about)
 
 <br />
 
@@ -20,5 +18,5 @@ Research links:
 
 ---
 
-### [Ongoing Research](ongoingandunpub "Link to ongoing research")
+### [Ongoing Research](/ongoingandunpub "Link to ongoing research")
 ---
