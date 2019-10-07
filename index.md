@@ -1,17 +1,22 @@
-### Quantitative Researcher  |  [About](https://dsmithjo.github.io/about "About") 
+### Quantitative Researcher
 
----
+#### [About](https://dsmithjo.github.io/about)
 
-### [Publications](https://dsmithjo.github.io/publications "Publications")
+<br />
+
+Research links:
   * [Google Scholar Citations](https://scholar.google.com/citations?user=d8PodEsAAAAJ&hl=en "Google Scholar Citations")
-  * [ResearchGate](https://www.researchgate.net/profile/Daniel_Smith45 "ResearchGate")
+  * [Researchgate](https://www.researchgate.net/profile/Daniel_Smith45 "Researchgate")
+ 
+---
+
+### [Publications](https://dsmithjo.github.io/publications "Link to publications")
+    
+---
+
+### [Presentations](https://dsmithjo.github.io/presentations "Link to presentations")
 
 ---
 
-
-### Presentations
----
-
-
-### Ongoing Research
+### [Ongoing Research](https://dsmithjo.github.io/ongoingandunpub "Link to ongoing research")
 ---
