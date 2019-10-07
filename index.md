@@ -10,11 +10,11 @@ Research links:
  
 ---
 
-### [Publications](publications "Link to publications")
+### [Publications](https://dsmithjo.github.io/publications "Link to publications")
     
 ---
 
-### [Presentations](https://dsmithjo.github.io/https://dsmithjo.github.io/presentations "Link to presentations")
+### [Presentations](https://dsmithjo.github.io/presentations "Link to presentations")
 
 ---
 
