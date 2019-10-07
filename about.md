@@ -1,7 +1,6 @@
 ### About
 
-As a quantitative researcher, I'm interested in addressing puzzles and problems from a social science perspective. I have experience collaborating on projects in political science, public health, medicine, and sports. 
-
+As a quantitative researcher, I'm interested in the application of political economy theory and empirical methods to puzzles and problems in international politics, sports, public health, and medicine. 
 A repository of my work can be found [here](https://dsmithjo.github.io/#publications). You'll find a list of my publications, presentations, and ongoing research, with links to the articles, analysis, or code, where possible.
 
 <br />
