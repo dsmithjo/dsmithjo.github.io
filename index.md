@@ -16,6 +16,6 @@ Research links:
 
 ---
 
-### [Ongoing Research](dsmithjo.github.io/ongoingandunpub "Link to ongoing research")
+### [Ongoing Research](ongoingandunpub.md "Link to ongoing research")
 
 ---
