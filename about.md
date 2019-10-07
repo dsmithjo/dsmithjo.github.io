@@ -4,7 +4,6 @@ As a quantitative researcher, I'm interested in addressing puzzles and problems 
 
 A repository of my work can be found [here](https://dsmithjo.github.io/#publications). You'll find a list of my publications, presentations, and ongoing research, with links to the articles, analysis, or code, where possible.
 
-<br />
 
-GitHub: [dsmithjo](https://github.com/dsmithjo "dsmithjo")
+GitHub: [dsmithjo](https://github.com/dsmithjo "dsmithjo")  
 Twitter: [@dsmithjo](https://twitter.com/dsmithjo "@dsmithjo")
