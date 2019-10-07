@@ -2,6 +2,8 @@
 
 #### [About](https://dsmithjo.github.io/about)
 
+#### [About](https://dsmithjo.github.io/about.md)
+
 <br />
 
 Research links:
