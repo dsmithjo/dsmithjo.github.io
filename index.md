@@ -2,7 +2,7 @@
 
 <br />
 
-> **[About]**(https://dsmithjo.github.io/about)
+> **[About](https://dsmithjo.github.io/about)**
 >
 > **Research links:**
 >  * [Google Scholar Citations](https://scholar.google.com/citations?user=d8PodEsAAAAJ&hl=en "Google Scholar Citations")
