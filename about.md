@@ -1,7 +1,11 @@
-### About Me
+### About
 
-As a quantitative researcher, I'm driven to effect societal change and understand decision-making through applied empirical analysis. I've worked on scholarly projects in political economy, public health, health care, and sports.
+As a quantitative researcher, I'm interested in addressing puzzles and problems from a social science perspective. I have experience collaborating on projects in political science, public health, medicine, and sports. 
 
+A repository of my work can be found [here](https://smithdj.github.io/#publications). You'll find a list of my publications, presentations, and ongoing research, with links to the articles, analysis, or code, where possible.
 
-GitHub: [dsmithjo](https://github.com/dsmithjo "dsmithjo")  
-Twitter: [@dsmithjo](https://twitter.com/dsmithjo?lang=en "@dsmithjo")
+<br />
+
+### Contact
+
+Email: smithdanieljo@gmail.com
