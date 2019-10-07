@@ -1,10 +1,12 @@
-### Quantitative Researcher  |  [About](https://dsmithjo.github.io/about)
+### Quantitative Researcher
 
 <br />
 
-Research links:
-  * [Google Scholar Citations](https://scholar.google.com/citations?user=d8PodEsAAAAJ&hl=en "Google Scholar Citations")
-  * [Researchgate](https://www.researchgate.net/profile/Daniel_Smith45 "Researchgate")
+> [About](https://dsmithjo.github.io/about)
+>
+> Research links:
+>  * [Google Scholar Citations](https://scholar.google.com/citations?user=d8PodEsAAAAJ&hl=en "Google Scholar Citations")
+>  * [Researchgate](https://www.researchgate.net/profile/Daniel_Smith45 "Researchgate")
  
 ---
 
