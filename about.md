@@ -6,5 +6,5 @@ A repository of my work can be found [here](https://dsmithjo.github.io/#publicat
 
 <br />
 
-GitHub: dsmithjo  
-Twitter: @dsmithjo
+GitHub: [dsmithjo](https://github.com/dsmithjo "dsmithjo")
+Twitter: [@dsmithjo](https://twitter.com/dsmithjo "@dsmithjo")
