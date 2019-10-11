@@ -4,7 +4,7 @@
 
 Research links:
   * [Google Scholar Citations](https://scholar.google.com/citations?user=d8PodEsAAAAJ&hl=en "Google Scholar Citations")
-  * [Researchgate](https://www.researchgate.net/profile/Daniel_Smith45 "Researchgate")
+  * [ResearchGate](https://www.researchgate.net/profile/Daniel_Smith45 "Researchgate")
  
 ---
 
